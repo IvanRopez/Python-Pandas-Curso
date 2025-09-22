@@ -1,0 +1,23 @@
+Id_producto,Nombre,Categoria,Stock,Ventas
+1,jabón naranja,jabones,7,3
+2,jabón limón,jabones,4,6
+3,jabón avena,jabones,5,5
+4,jabón canela,jabones,8,2
+5,amatista,minerales,3,2
+6,ojo de tigre,minerales,5,2
+7,citrino,minerales,3,5
+8,péndulo de amatista,herramientas,13,5
+9,péndulo de cuarzo,herramientas,6,3
+10,collar de amatista,bisutería,6,6
+11,collar de cuarzo rosa,bisutería,23,54
+12,collar de ojo de tigre,bisutería,32,4
+13,agua de luna creciente,herramientas,2,5
+14,agua de luna llena,herramientas,6,1
+15,agua de luna menguante,herramientas,34,12
+16,árbol decorativo,ornamentación,2,4
+17,árbol de amatista,ornamentación,25,5
+18,árbol de minerales,ornamentación,5,5
+19,incienso de romero,sahumerios,3,4
+20,incienso de lavanda,sahumerios,9,7
+21,incienso de canela,sahumerios,1,7
+22,incienso de ruda,sahumerios,6,4
