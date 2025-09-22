@@ -1,0 +1,18 @@
+Objetivos:
+
+- Conocer los tipos de datos en Pandas
+- Manejar y manipular series de datos
+- Conocer en profundidad los dataframes
+- Aprender a crear una estadística descriptiva con pandas
+
+Anotaciones
+
+- Conocimiento de Python
+- Basado en la documentación oficial
+- Conocimiento de Numpy
+
+Índice
+
+- Introducción
+- Estructuras de datos
+- Operaciones con dataframes

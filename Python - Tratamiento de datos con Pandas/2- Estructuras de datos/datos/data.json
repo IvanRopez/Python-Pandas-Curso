@@ -1,0 +1,4 @@
+{
+  "0": {"Number": 1, "City": "Dallas", "Gender": "Male", "Age": 41, "Income": 40367.0, "Illness": "No"},
+  "1": {"Number": 2, "City": "Houston", "Gender": "Female", "Age": 33, "Income": 50200.0, "Illness": "Yes"}
+}

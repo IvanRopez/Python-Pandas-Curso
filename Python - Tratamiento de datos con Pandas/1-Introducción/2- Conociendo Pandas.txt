@@ -1,0 +1,12 @@
+Es una librería que proporciona estructuras de datos y herramientas de análisis de datos de alto rendimiento y fáciles de usar.
+
+Numpy -> arrays y matrices
+Pandas -> dataframes ( tablas con filas y columnas )
+
+Características principales
+
+- Buena integración con Numpy
+- El dataframe es abstracción principal de datos
+- Posee funciones de leer distintos formatos de datos
+- Agrupaciones y agregaciones de datos
+- Funcionalidad de series de tiempo
